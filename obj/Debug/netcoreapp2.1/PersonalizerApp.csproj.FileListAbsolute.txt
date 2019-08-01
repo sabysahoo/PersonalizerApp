@@ -1,0 +1,11 @@
+C:\Users\sabysahoo\source\repos\PersonalizerApp\bin\Debug\netcoreapp2.1\PersonalizerApp.deps.json
+C:\Users\sabysahoo\source\repos\PersonalizerApp\bin\Debug\netcoreapp2.1\PersonalizerApp.runtimeconfig.json
+C:\Users\sabysahoo\source\repos\PersonalizerApp\bin\Debug\netcoreapp2.1\PersonalizerApp.runtimeconfig.dev.json
+C:\Users\sabysahoo\source\repos\PersonalizerApp\bin\Debug\netcoreapp2.1\PersonalizerApp.dll
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.csprojAssemblyReference.cache
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.csproj.CoreCompileInputs.cache
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.AssemblyInfoInputs.cache
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.AssemblyInfo.cs
+C:\Users\sabysahoo\source\repos\PersonalizerApp\bin\Debug\netcoreapp2.1\PersonalizerApp.pdb
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.dll
+C:\Users\sabysahoo\source\repos\PersonalizerApp\obj\Debug\netcoreapp2.1\PersonalizerApp.pdb
